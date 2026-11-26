@@ -14,6 +14,6 @@ Final-year Applied Computer Science student (Data & AI) at KdG in Antwerp. I bui
 - [Air freight operations](https://github.com/jfriedhoff/air-freight-operations): event-driven microservices with DDD, Spring Boot, RabbitMQ and Keycloak; 93–98% test coverage, mutation-tested. With Romeo Weyns.
 - [Jaffle Shop on dbt](https://github.com/jfriedhoff/jaffle-shop-dbt-snowflake): dbt on Snowflake with tests, docs and a macro that cut warehouse cost.
 
-**Tools:** Python, SQL, Java, C# · Spark, Delta Lake, Kafka, dbt, Snowflake, PostgreSQL · scikit-learn, PyTorch · Docker
+**Tools:** Python, SQL, Java, C# · Spark, Delta Lake, Kafka, dbt, Snowflake, PostgreSQL · scikit-learn, PyTorch, TensorFlow · Docker
 
 [jonas@friedhoff.dev](mailto:jonas@friedhoff.dev) · [friedhoff.dev](https://friedhoff.dev) · [LinkedIn](https://www.linkedin.com/in/jonas-friedhoff)
